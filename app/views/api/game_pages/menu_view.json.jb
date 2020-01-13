@@ -1,0 +1,5 @@
+[
+  {play: "play", new_game: "new game", custom_games: "custom"},
+  {settings: "settings"},
+  {quit: "quit"}
+]

@@ -1,0 +1,5 @@
+{
+  message: "welcome", 
+  note: "this is the worst game imagineable. You don't really do anything beyond open the page", 
+  current_time: @current_time
+}
